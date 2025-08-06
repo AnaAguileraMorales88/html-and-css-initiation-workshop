@@ -1,0 +1,267 @@
+*{
+    color: #DF2E2F;
+    font-weight: bold;
+    font-family: 'Barlow', sans-serif;
+    font-size: 32px;
+}
+body{
+    background-color: #fefefe;
+   
+}
+
+header{
+    border: 15px solid black;
+    margin-bottom: 10px;
+}
+
+.navTop{
+    background-color:#298088 ;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    gap: 15px;
+    border-bottom: 15px solid black;
+}
+.navTop div{
+    background-color: #F7D168;
+    text-align: center;
+    padding: 10px;
+}
+.logo {
+    flex: 1;
+}
+
+.navbar {
+    flex: 3; }
+
+.registro {
+    flex: 1;
+}
+
+.nav2{
+    background-color:#DF2E2F;
+    border-top: 0;
+    padding: 15px;
+
+}
+.banner{
+    display: flex;
+    justify-content: center;
+    background-color: #F7D168;
+    padding: 5px;
+}
+main{
+    border: 15px solid black;
+}
+.contenido{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto; 
+}
+.articulos{
+    flex: 3;
+    background-color:#298088 ;
+    padding: 15px;
+}
+.cuadro1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px 50px;
+    margin: 15px;
+}
+.cuadro1 div{
+    flex: 1 1 45%;
+    background-color: #F7D168;
+    padding: 10px;
+    text-align: center;
+    
+}
+.art1 { order: 1; }
+.art2 { order: 3; }
+.art3 { order: 2; }
+.art4 { order: 4; }
+
+.comentarios{
+    display: grid;
+    gap: 15px;
+    margin: 10px 10px;
+}
+.comentarios div{
+    flex: 1;
+    background-color:  #F7D168;
+    padding: 10px;
+    text-align: center;
+    justify-content: column;
+}
+aside{
+    border-left: 15px solid black;
+    }
+
+.opciones{
+    flex: 1 1 5%;
+    background:#DF2E2F;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 15px;
+}
+.opciones div{
+    background:#F7D168;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+footer{
+    background-color:#F7D168 ;
+    border: 15px solid black;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .contenido {
+        flex-direction: column;
+        width: 100%;
+        margin: 0 auto;
+        box-sizing: border-box;
+      }
+
+      .articulos {
+        width: auto;
+        padding: 20px;
+        box-sizing: border-box;
+    
+      }
+      main{
+        width: auto;
+        margin: 0 auto;
+        box-sizing: border-box;
+      }
+      .cuadro1 {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: space-between;
+      }
+      .cuadro1 div {
+        flex: 1 1 45%;
+      }
+      .comentarios {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 20px;
+      }
+      .comentarios div {
+        flex: 1 1 100%;
+      }
+      aside{
+        border-left: none;
+        border-top: 15px solid black;
+      }
+      .opciones {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        padding: 20px;
+        width: 100%;
+        box-sizing: border-box;
+      }
+      .opciones div {
+        flex: 1 1 100%;                 
+        box-sizing: border-box;
+      }
+     
+    
+}
+
+@media screen and (max-width: 576px){
+    .navTop{
+        flex-direction: column;
+        background-color:#DF2E2F;
+    }
+    .nav2{
+        flex-direction: column;
+        background-color:#DF2E2F;
+
+    }
+    .articulos{
+        flex-direction: column;
+        background-color:#DF2E2F;
+    }
+    .comentarios{
+        flex-direction: column;
+        background-color:#DF2E2F;
+    }
+    .contenido{
+        flex-direction: column;
+        background-color:#DF2E2F;
+
+    }
+    .opciones{
+        flex-direction: column;
+        border-left:none;
+        background-color:#DF2E2F;
+        border-top: 15px solid black;
+    }
+    .footer{
+        flex-direction: column;
+
+    }
+    .art1 { order: 1; }
+    .art2 { order: 2; }
+    .art3 { order: 3; }
+    .art4 { order: 4; }
+    
+    .art2 {
+        margin-bottom: 30px;
+      }
+
+    
+ 
+
+    .logo{
+        color: #477E6F;
+    }
+    .navbar{
+        color: #477E6F;
+
+    }
+    .registro{
+        color: #477E6F;
+
+    }
+    .banner{
+        color: #477E6F;
+
+    }
+    .cuadro1 div{
+        color: #477E6F;
+
+    }
+
+    .comentarios div{
+        color: #477E6F;
+
+    }
+    .opciones div{
+        color: #477E6F;
+    }
+    .comentarios div{
+        color: #477E6F;
+
+    }
+    .opciones div{
+            color: #477E6F;
+    
+        }
+    footer div{
+            color: #477E6F;
+    
+        
+    }
+
+}
+
+
+
