@@ -12,7 +12,6 @@ Maquetación web.
   <li>HTML5</li>
   <li>CSS3</li>
 </ul>
-##  Instrucciones
 
 Desarrolla una página web básica tal como te muestra la maqueta.
 
