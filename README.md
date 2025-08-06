@@ -16,16 +16,16 @@ Maquetación web.
 Desarrolla una página web básica tal como te muestra la maqueta.
 
 ## 1.Réplica 
-### Tamaño Desktop.
+#### Tamaño Desktop.
 
 ![Texto alternativo](img/Desktop.png)
 ## 2.Réplica 
-### Tamaño Tablet. En el mismo archivo de HTML5 que has creado anteriormente y mediante media queries en CSS3 haz que la estructura que tienes se transforme como la siguiente imagen cuando tiene un tamaño de Tablet.
+#### Tamaño Tablet. En el mismo archivo de HTML5 que has creado anteriormente y mediante media queries en CSS3 haz que la estructura que tienes se transforme como la siguiente imagen cuando tiene un tamaño de Tablet.
 
 ![Texto alternativo](img/Tablet.png)
 
 ## 3.Réplica 
-### Tamaño Mobile. En el mismo archivo de HTML5 que has creado anteriormente y mediante media queries en CSS3 haz que la estructura que tienes se transforme como la siguiente imagen cuando tiene un tamaño de Mobile.
+#### Tamaño Mobile. En el mismo archivo de HTML5 que has creado anteriormente y mediante media queries en CSS3 haz que la estructura que tienes se transforme como la siguiente imagen cuando tiene un tamaño de Mobile.
 
 ![Texto alternativo](img/Mobile.png)
 
