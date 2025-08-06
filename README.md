@@ -13,6 +13,7 @@ Maquetación web.
   <li>CSS3</li>
 </ul>
 ## Instrucciones
+
 Desarrolla una página web básica tal como te muestra la maqueta.
 
 ## 1.Réplica 
