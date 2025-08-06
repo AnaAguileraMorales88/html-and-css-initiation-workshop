@@ -40,6 +40,6 @@ Desarrolla una página web básica tal como te muestra la maqueta.
 
 ## Guía de Tamaños
 
-Mobile: hasta 576px
-Tablet: entre 768px a 992px
-Desktop: entre 1200 a 1440px
+- Mobile: hasta 576px
+- Tablet: entre 768px a 992px
+- Desktop: entre 1200 a 1440px
