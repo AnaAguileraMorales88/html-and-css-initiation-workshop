@@ -39,7 +39,12 @@ Desarrolla una página web básica tal como te muestra la maqueta.
 - Usar Flexbox
 
 ## Guía de Tamaños
+<ul>
+  <li>- Mobile: hasta 576px</li>
+  <li>- Tablet: entre 768px a 992px</li>
+  <li>
+- Desktop: entre 1200 a 1440px</li>
+</ul>
 
-- Mobile: hasta 576px
-- Tablet: entre 768px a 992px
-- Desktop: entre 1200 a 1440px
+
+
