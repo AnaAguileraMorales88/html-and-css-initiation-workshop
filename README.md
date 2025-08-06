@@ -17,3 +17,4 @@ Desarrolla una página web básica tal como te muestra la maqueta.
 
 ## 1. Réplica 
 ### Tamaño Desktop.
+![Texto alternativo](img/Desktop.png)
